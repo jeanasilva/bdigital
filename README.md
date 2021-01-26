@@ -71,4 +71,4 @@
     
     - Projeto Chatbdigital => Executar o comando php artisan serve via terminal Unix/Linux/Bash na pasta /Bdigital, após a execucação irá aparecer http://127.0.0.1:8000, acesse via navegador http://127.0.0.1:8000/login, caso ainda não tenha o registro criado, clique em registrar no menu acima, após registrar, você será direcionado automaticamente para o dashboard a qual mostrará o acesso ao chat, então clique no botão CHAT, a qual irá direcionar ao CHAT. É necessário ir em pesquisar para procurar as pessoas que efetuaram o cadastro em registrar, em proximas features será adicionado pessoas em tempo real sendo adicionadas.
 
-##### Jean Abreu da Silva / 992517862
+##### Jean Silva
